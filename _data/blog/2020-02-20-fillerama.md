@@ -2,10 +2,14 @@
 template: BlogPost
 path: /fillerama
 date: 2020-02-20T14:59:36.571Z
-title: Dummy Content from Fillerama
+title: Dummy Content from Fillerama!
 thumbnail: /assets/image-5.jpg
 ---
 # No, I'll fix it. I'm good at fixing rot. Call me the Rotmeister. No, I'm the Doctor. Don't call me the Rotmeister.
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">I’ve been craving an escape hatch from Twitter. <br><br>So some friends and I made this. A live network of 20 streams dedicated to nature, music, and things that fascinate.<br><br>Say hello to <a href="https://t.co/elDQzm1n9D">https://t.co/elDQzm1n9D</a></p>&mdash; codyb (@codybrown) <a href="https://twitter.com/codybrown/status/1251235023484674049?ref_src=twsrc%5Etfw">April 17, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
 
 I am the Doctor, and you are the Daleks! You hit me with a cricket bat. You know when grown-ups tell you 'everything's going to be fine' and you think they're probably lying to make you feel better? You hit me with a cricket bat.
 
